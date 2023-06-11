@@ -1,0 +1,102 @@
+[
+  {
+    "nama": "Common Cold (Pilek Biasa)",
+    "gejala": [
+      "Bersin-bersin",
+      "Mata berair",
+      "Batuk ringan",
+      "Hidung berair"
+    ],
+    "pengobatan": "Memberikan istirahat yang cukup dan menjaga kebersihan kucing. Jika gejala memburuk, sebaiknya periksakan ke dokter hewan."
+  },
+  {
+    "nama": "Fleas (Kutu)",
+    "gejala": [
+      "Gatal-gatal",
+      "Menggaruk tubuh terus-menerus",
+      "Kehilangan bulu",
+      "Bisa terjadi iritasi kulit"
+    ],
+    "pengobatan": "Gunakan obat kutu yang direkomendasikan oleh dokter hewan. Selain itu, pastikan juga membersihkan lingkungan kucing dari kutu."
+  },
+  {
+    "nama": "Urinary Tract Infection (Infeksi Saluran Kemih)",
+    "gejala": [
+      "Sering buang air kecil",
+      "Nyeri saat buang air kecil",
+      "Darah dalam urine",
+      "Menjilati area kemaluan secara berlebihan"
+    ],
+    "pengobatan": "Periksakan ke dokter hewan untuk pemeriksaan dan pengobatan yang tepat. Mungkin diperlukan antibiotik atau perubahan dalam pola makan."
+  },
+  {
+    "nama": "Gingivitis (Radang Gusi)",
+    "gejala": [
+      "Gusi merah dan bengkak",
+      "Bau mulut yang tidak sedap",
+      "Nafsu makan menurun",
+      "Pendarahan gusi saat makan atau mengunyah"
+    ],
+    "pengobatan": "Bersihkan gigi secara teratur dengan pasta gigi khusus kucing. Jika parah, mungkin diperlukan pembersihan gigi oleh dokter hewan."
+  },
+  {
+    "nama": "Ringworm (Kurap)",
+    "gejala": [
+      "Bercak merah pada kulit",
+      "Kulit bersisik",
+      "Rambut rontok",
+      "Gatal-gatal"
+    ],
+    "pengobatan": "Konsultasikan ke dokter hewan untuk diagnosis dan pengobatan yang tepat. Pengobatan dapat meliputi salep atau obat oral, dan perlu menjaga kebersihan lingkungan."
+  },
+  {
+    "nama": "Ear Mites (Kutu Telinga)",
+    "gejala": [
+      "Gatal di area telinga",
+      "Menggeleng-gelengkan kepala",
+      "Keluar cairan dari telinga",
+      "Bau yang tidak sedap di area telinga"
+    ],
+    "pengobatan": "Bersihkan telinga kucing dengan solusi yang direkomendasikan oleh dokter hewan. Gunakan obat kutu telinga yang sesuai."
+  },
+  {
+    "nama": "Vomiting (Muntah)",
+    "gejala": [
+      "Muntah berulang kali",
+      "Hilangnya nafsu makan",
+      "Lemas atau kelesuan",
+      "Dehidrasi"
+    ],
+    "pengobatan": "Berikan makanan ringan seperti nasi rebus atau porsi makan yang lebih kecil. Jika muntah terus berlanjut, sebaiknya periksakan ke dokter hewan."
+  },
+  {
+    "nama": "Diarrhea (Diare)",
+    "gejala": [
+      "Feses yang encer dan berair",
+      "Frekuensi buang air besar yang meningkat",
+      "Hilangnya nafsu makan",
+      "Lemas atau kelesuan"
+    ],
+    "pengobatan": "Memberikan makanan yang mudah dicerna seperti nasi rebus atau makanan khusus untuk diare. Pastikan kucing tetap terhidrasi. Jika diare berlanjut, sebaiknya periksakan ke dokter hewan."
+  },
+  {
+    "nama": "Obesity (Kegemukan)",
+    "gejala": [
+      "Berat badan berlebih",
+      "Sulit bergerak",
+      "Nafsu makan yang berlebihan",
+      "Kesulitan bernapas"
+    ],
+    "pengobatan": "Mengatur pola makan dan memberikan makanan dengan porsi yang tepat. Berikan aktivitas fisik yang cukup untuk membantu menurunkan berat badan."
+  },
+  {
+    "nama": "Eye Infection (Infeksi Mata)",
+    "gejala": [
+      "Mata merah dan bengkak",
+      "Produksi air mata berlebihan",
+      "Mata berair atau bernanah",
+      "Gatal-gatal di area mata"
+    ],
+    "pengobatan": "Membersihkan mata dengan larutan khusus yang direkomendasikan oleh dokter hewan. Jika infeksi berlanjut, diperlukan pengobatan lebih lanjut."
+  }
+]

@@ -1,0 +1,85 @@
+{
+    "cats": [
+      {
+        "id": 1,
+        "name": "Persia",
+        "breed": "Persia",
+        "age": "2 years",
+        "color": "White",
+        "image": "https://example.com/images/persian_cat.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Maine Coon",
+        "breed": "Maine Coon",
+        "age": "3 years",
+        "color": "Brown",
+        "image": "https://example.com/images/maine_coon.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Siamese",
+        "breed": "Siamese",
+        "age": "1 year",
+        "color": "Cream",
+        "image": "https://example.com/images/siamese_cat.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Bengal",
+        "breed": "Bengal",
+        "age": "2 years",
+        "color": "Spotted",
+        "image": "https://example.com/images/bengal_cat.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Scottish Fold",
+        "breed": "Scottish Fold",
+        "age": "1.5 years",
+        "color": "Gray",
+        "image": "https://example.com/images/scottish_fold.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Sphynx",
+        "breed": "Sphynx",
+        "age": "2 years",
+        "color": "Pink",
+        "image": "https://example.com/images/sphynx_cat.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Ragdoll",
+        "breed": "Ragdoll",
+        "age": "3 years",
+        "color": "Blue",
+        "image": "https://example.com/images/ragdoll_cat.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Russian Blue",
+        "breed": "Russian Blue",
+        "age": "2 years",
+        "color": "Gray",
+        "image": "https://example.com/images/russian_blue.jpg"
+      },
+      {
+        "id": 9,
+        "name": "American Shorthair",
+        "breed": "American Shorthair",
+        "age": "2.5 years",
+        "color": "Tabby",
+        "image": "https://example.com/images/american_shorthair.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Norwegian Forest",
+        "breed": "Norwegian Forest",
+        "age": "3 years",
+        "color": "Brown",
+        "image": "https://example.com/images/norwegian_forest.jpg"
+      }
+    ]
+  }
+  

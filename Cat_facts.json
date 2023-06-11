@@ -1,0 +1,125 @@
+{
+  "species": [
+    {
+      "name": "Persia",
+      "biologicalName": "Felis catus",
+      "food": "Makanan kucing kering dan basah",
+      "averageLifespan": "12-16 tahun",
+      "facts": [
+        "Kucing Persia memiliki bulu yang panjang, lebat, dan indah.",
+        "Mereka cenderung memiliki kepribadian yang tenang dan santai.",
+        "Kucing Persia membutuhkan perawatan bulu yang intensif untuk menjaga kebersihan dan kesehatan mereka."
+      ]
+    },
+    {
+      "name": "Siamese",
+      "biologicalName": "Felis catus",
+      "food": "Makanan kucing kering dan basah",
+      "averageLifespan": "10-12 tahun",
+      "facts": [
+        "Kucing Siamese dikenal karena mata biru intens dan bulu pendek mereka yang cerah.",
+        "Mereka adalah kucing yang ramah dan ekstrovert, suka berinteraksi dengan manusia dan hewan peliharaan lainnya.",
+        "Suara kucing Siamese adalah salah satu yang paling berbicara di antara spesies kucing."
+      ]
+    },
+    {
+      "name": "Maine Coon",
+      "biologicalName": "Felis catus",
+      "food": "Makanan kucing kering dan basah",
+      "averageLifespan": "12-15 tahun",
+      "facts": [
+        "Maine Coon adalah salah satu spesies kucing terbesar. Mereka dapat mencapai berat hingga 20 pound (9 kilogram) atau lebih.",
+        "Mereka dikenal memiliki bulu tebal, bertelinga lebar, dan ekor yang panjang.",
+        "Kucing Maine Coon sangat ramah, lembut, dan cerdas."
+      ]
+    },
+    {
+      "name": "Bengal",
+      "biologicalName": "Prionailurus bengalensis",
+      "food": "Makanan kucing kering dan basah, serta daging mentah",
+      "averageLifespan": "10-16 tahun",
+      "facts": [
+        "Kucing Bengal memiliki pola bulu yang unik yang menyerupai leopard.",
+        "Mereka adalah kucing yang energik, atletik, dan cerdas.",
+        "Kucing Bengal memiliki kecenderungan untuk menyukai air dan seringkali tertarik pada permainan berburu."
+      ]
+    },
+    {
+      "name": "Sphynx",
+      "biologicalName": "Felis catus",
+      "food": "Makanan kucing kering dan basah",
+      "averageLifespan": "12-16 tahun",
+      "facts": [
+        "Kucing Sphynx dikenal karena kurangnya bulu. Meskipun terlihat tanpa bulu, mereka sebenarnya memiliki lapisan bulu yang sangat tipis.",
+        "Mereka adalah kucing yang ramah, perhatian, dan suka bermain.",
+        "Kucing Sphynx cenderung lebih rentan terhadap suhu dingin dan membutuhkan perlindungan ekstra untuk menjaga kehangatan tubuh mereka."
+      ]
+    },
+    {
+      "name": "Scottish Fold",
+      "biologicalName": "Felis catus",
+      "food": "Makanan kucing kering dan basah",
+      "averageLifespan": "11-14 tahun",
+      "facts": [
+        "Scottish Fold dikenal karena telinganya yang melipat ke bawah.",
+        "Mereka adalah kucing yang tenang, ramah, dan mudah beradaptasi dengan lingkungan baru.",
+        "Kucing Scottish Fold memiliki suara yang lembut dan memiliki tingkat energi yang seimbang."
+      ]
+    },
+    {
+      "name": "Ragdoll",
+      "biologicalName": "Felis catus",
+      "food": "Makanan kucing kering dan basah",
+      "averageLifespan": "12-17 tahun",
+      "facts": [
+        "Ragdoll mendapat namanya karena cenderung rileks dan mudah dibawa seperti boneka 'ragdoll' saat diangkat.",
+        "Mereka adalah kucing yang tenang, lembut, dan penuh kasih sayang.",
+        "Kucing Ragdoll memiliki ukuran tubuh yang besar dan mata biru yang indah."
+      ]
+    },
+    {
+      "name": "Russian Blue",
+      "biologicalName": "Felis catus",
+      "food": "Makanan kucing kering dan basah",
+      "averageLifespan": "15-20 tahun",
+      "facts": [
+        "Russian Blue dikenal karena bulu pendek berwarna biru-hijau dan mata hijau yang intens.",
+        "Mereka adalah kucing yang cerdas, tenang, dan sensitif terhadap perubahan suasana hati pemiliknya.",
+        "Kucing Russian Blue sering dianggap sebagai kucing yang elegan dan anggun."
+      ]
+    },
+    {
+      "name": "Birman",
+      "biologicalName": "Felis catus",
+      "food": "Makanan kucing kering dan basah",
+      "averageLifespan": "12-16 tahun",
+      "facts": [
+        "Birman memiliki bulu yang lembut dan tebal dengan warna tubuh yang kontras dengan warna kaki dan ekor.",
+        "Mereka adalah kucing yang ramah, tenang, dan penuh kasih sayang.",
+        "Kucing Birman dikenal memiliki mata biru yang indah dan kaki dengan bulu yang panjang."
+      ]
+    },
+    {
+      "name": "Abyssinian",
+      "biologicalName": "Felis catus",
+      "food": "Makanan kucing kering dan basah",
+      "averageLifespan": "9-15 tahun",
+      "facts": [
+        "Abyssinian memiliki bulu yang pendek, padat, dan berkilau dengan warna yang kaya.",
+        "Mereka adalah kucing yang energik, atletik, dan suka bermain.",
+        "Kucing Abyssinian dikenal karena kepribadian yang ceria dan suka berinteraksi dengan manusia."
+      ]
+    },
+    {
+      "name": "Norwegian Forest",
+      "biologicalName": "Felis catus",
+      "food": "Makanan kucing kering dan basah",
+      "averageLifespan": "12-16 tahun",
+      "facts": [
+        "Norwegian Forest dikenal sebagai kucing yang berasal dari hutan Norwegia dan memiliki bulu tebal dan tahan air.",
+        "Mereka adalah kucing yang ramah, cerdas, dan sangat mahir dalam memanjat dan berburu.",
+        "Kucing Norwegian Forest dikenal memiliki kaki yang kuat dan ekor yang panjang dan lebat."
+      ]
+    }
+  ]
+}
