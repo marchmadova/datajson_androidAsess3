@@ -1,30 +1,29 @@
 {
-    "gallery": [
-      {
-        "id": 1,
-        "title": "Kucing Lucu 1",
-        "imageUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fawsimages.detik.net.id%2Fcommunity%2Fmedia%2Fvisual%2F2022%2F11%2F07%2Fkasus-kucing-mati-dilempar-batu-di-jakarta-kronologi-hingga-penyebab.jpeg%3Fw%3D1200&tbnid=_S-ShA2XXuI93M&vet=12ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygBegUIARDgAQ..i&imgrefurl=https%3A%2F%2Fwww.detik.com%2Fedu%2Fdetikpedia%2Fd-6415093%2Filmuwan-ungkap-cara-berkomunikasi-dengan-kucing-bisa-lewat-senyum&docid=8SqvOzVpgf7rhM&w=1200&h=801&q=kucing&ved=2ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygBegUIARDgAQ"
-      },
-      {
-        "id": 2,
-        "title": "Kucing Lucu 2",
-        "imageUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.greeners.co%2Fwp-content%2Fuploads%2F2021%2F03%2FKucing-Domestik-1.jpg&tbnid=GcDYrzZ27lQYTM&vet=12ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygHegUIARDsAQ..i&imgrefurl=https%3A%2F%2Fwww.greeners.co%2Fflora-fauna%2Fkucing-domestik%2F&docid=qLPtPFT85mH2EM&w=640&h=360&q=kucing&ved=2ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygHegUIARDsAQ"
-      },
-      {
-        "id": 3,
-        "title": "Kucing Lucu 3",
-        "imageUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fdk0z4ums3%2Fimage%2Fupload%2Fv1661753020%2Fattached_image%2Finilah-cara-merawat-anak-kucing-yang-tepat.jpg&tbnid=0vBfXVYoqkVwwM&vet=12ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygFegUIARDoAQ..i&imgrefurl=https%3A%2F%2Fwww.alodokter.com%2Finilah-cara-merawat-anak-kucing-yang-tepat&docid=8lElRDiBysUkUM&w=650&h=433&q=kucing&ved=2ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygFegUIARDoAQ"
-      },
-      {
-        "id": 4,
-        "title": "Kucing Lucu 4",
-        "imageUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fawsimages.detik.net.id%2Fcommunity%2Fmedia%2Fvisual%2F2020%2F09%2F20%2Fjenis-jenis-kucing-peliharaan-12.jpeg%3Fw%3D1200&tbnid=VYWTuBUq_l0sSM&vet=12ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygRegUIARCAAg..i&imgrefurl=https%3A%2F%2Fwolipop.detik.com%2Fhome%2Fd-5180681%2F15-jenis-kucing-peliharaan-yang-populer-menggemaskan-dan-mudah-dirawat&docid=HZ9VV4l6mnJawM&w=1200&h=800&q=kucing&ved=2ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygRegUIARCAAg"
-      },
-      {
-        "id": 5,
-        "title": "Kucing Lucu 5",
-        "imageUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fd1bpj0tv6vfxyp.cloudfront.net%2Farticles%2F437506_6-11-2020_18-15-5.webp&tbnid=KoZnJ3VMsUuIpM&vet=12ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygdegUIARCdAg..i&imgrefurl=https%3A%2F%2Fwww.halodoc.com%2Fartikel%2Fketahui-seluk-beluk-merawat-anak-kucing&docid=5A4GFnisDxuUrM&w=702&h=465&q=kucing&ved=2ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygdegUIARCdAg"
-      }
-    ]
-  }
-  
+  "gallery": [
+    {
+      "id": 1,
+      "title": "Kucing Lucu 1",
+      "imageUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fawsimages.detik.net.id%2Fcommunity%2Fmedia%2Fvisual%2F2022%2F11%2F07%2Fkasus-kucing-mati-dilempar-batu-di-jakarta-kronologi-hingga-penyebab.jpeg%3Fw%3D1200&tbnid=_S-ShA2XXuI93M&vet=12ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygBegUIARDgAQ..i&imgrefurl=https%3A%2F%2Fwww.detik.com%2Fedu%2Fdetikpedia%2Fd-6415093%2Filmuwan-ungkap-cara-berkomunikasi-dengan-kucing-bisa-lewat-senyum&docid=8SqvOzVpgf7rhM&w=1200&h=801&q=kucing&ved=2ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygBegUIARDgAQ.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Kucing Lucu 2",
+      "imageUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.greeners.co%2Fwp-content%2Fuploads%2F2021%2F03%2FKucing-Domestik-1.jpg&tbnid=GcDYrzZ27lQYTM&vet=12ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygHegUIARDsAQ..i&imgrefurl=https%3A%2F%2Fwww.greeners.co%2Fflora-fauna%2Fkucing-domestik%2F&docid=qLPtPFT85mH2EM&w=640&h=360&q=kucing&ved=2ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygHegUIARDsAQ.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Kucing Lucu 3",
+      "imageUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fdk0z4ums3%2Fimage%2Fupload%2Fv1661753020%2Fattached_image%2Finilah-cara-merawat-anak-kucing-yang-tepat.jpg&tbnid=0vBfXVYoqkVwwM&vet=12ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygFegUIARDoAQ..i&imgrefurl=https%3A%2F%2Fwww.alodokter.com%2Finilah-cara-merawat-anak-kucing-yang-tepat&docid=8lElRDiBysUkUM&w=650&h=433&q=kucing&ved=2ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygFegUIARDoAQ.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Kucing Lucu 4",
+      "imageUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fawsimages.detik.net.id%2Fcommunity%2Fmedia%2Fvisual%2F2020%2F09%2F20%2Fjenis-jenis-kucing-peliharaan-12.jpeg%3Fw%3D1200&tbnid=VYWTuBUq_l0sSM&vet=12ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygRegUIARCAAg..i&imgrefurl=https%3A%2F%2Fwolipop.detik.com%2Fhome%2Fd-5180681%2F15-jenis-kucing-peliharaan-yang-populer-menggemaskan-dan-mudah-dirawat&docid=HZ9VV4l6mnJawM&w=1200&h=800&q=kucing&ved=2ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygRegUIARCAAg.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Kucing Lucu 5",
+      "imageUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fd1bpj0tv6vfxyp.cloudfront.net%2Farticles%2F437506_6-11-2020_18-15-5.webp&tbnid=KoZnJ3VMsUuIpM&vet=12ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygdegUIARCdAg..i&imgrefurl=https%3A%2F%2Fwww.halodoc.com%2Fartikel%2Fketahui-seluk-beluk-merawat-anak-kucing&docid=5A4GFnisDxuUrM&w=702&h=465&q=kucing&ved=2ahUKEwj8z_T4pcX_AhWfK7cAHU53DiAQMygdegUIARCdAg.jpg"
+    }
+  ]
+}
